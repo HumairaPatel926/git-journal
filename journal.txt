@@ -1,0 +1,4 @@
+My Git Journal
+
+Today I learned how to create a Git repository
+and push it to GitHub.
